@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guia 4</string>
+    <string name="Datos">Mis datos</string>
+    <string name="nombre">Lizandro Enrique Rivera Hernandez</string>
+    <string name="codigo">RH16-I04-001</string>
+    <string name="correlativo">03</string>
+    <string name="ValidarNombre">Ingrese el nombre</string>
+    <string name="ValidarOrganizacion">Ingrese la organizacion</string>
+    <string name="ValidarTelefono">Ingrese telefono</string>
+    <string name="Tamanio">Tamaño 8 caracteres</string>
+</resources>
